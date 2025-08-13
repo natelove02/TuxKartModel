@@ -2,6 +2,12 @@
 
 In this homework, we will learn to drive with Transformers and convolutional networks!
 
+
+
+https://github.com/user-attachments/assets/77204181-33b7-48cf-98b3-5aaecb6d4985
+
+
+
 Colab Starter: [link](https://colab.research.google.com/drive/1wRuzQ15Q9-ef2L7Yju-KbAUHo3w1O10i?usp=sharing)
 
 **NOTE:** Even if you're not using Colab, we recommend taking a look at the Colab notebook to see the recommended workflow and sample usage.
