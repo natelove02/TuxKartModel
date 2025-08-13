@@ -2,7 +2,7 @@
 
 | ![Test Drive Demo](assets/sample.png) |
 |:--:|
-| _Test Drive Demo: (Embed your video here once available)_ |
+| Test Drive Demo:
 
 
 
